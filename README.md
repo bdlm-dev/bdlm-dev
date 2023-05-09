@@ -1,4 +1,30 @@
-### Hi there 👋
+### Hey! 👋
+Hey, I'm a computer science student with a keen interest in programming and design!
+
+#### Current projects:
+- [Winch: DREDGE Modding Framework](https://github.com/Hacktix/Winch)
+
+#### Particularly familiar with these languages:
+- Python
+- JS
+- C#
+
+#### Here's a <sub>relatively</sub> nicely curated list of my 'techy' interests:
+- Full-stack Development
+- Data Science
+- UX Design
+- Cybersecurity
+- Game Development/Design
+- Gaming
+- Neural Networks
+
+#### And some less tech-oriented interests:
+- Rock Climbing
+- Music Composition
+- Writing
+- Graphic Design
+
+
 
 <!--
 **bdlm-dev/bdlm-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
