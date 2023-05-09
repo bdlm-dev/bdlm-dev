@@ -19,6 +19,7 @@ Hey, I'm a computer science student with a keen interest in programming and desi
 - Neural Networks
 
 #### And some less tech-oriented interests:
+- Reading
 - Rock Climbing
 - Music Composition
 - Writing
