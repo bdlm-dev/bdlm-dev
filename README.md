@@ -1,43 +1,30 @@
-### Hey! 👋
-Hey, I'm a computer science student with a keen interest in programming and design!
+## 👋 Hey! 👋
+Code wrangler from London, <br>
+I specialize in creating glorious bugs and puzzling errors that keep me up at night. 
 
-#### Current projects:
-- [Winch: DREDGE Modding Framework](https://github.com/Hacktix/Winch)
+### 🔎 Currently exploring:
+Game modding and reverse-engineering, specifically for DREDGE.
 
-#### Particularly familiar with these languages:
+### 💬 Ask me about:
+Anything programming! I'm an expert in googling solutions and pretending I knew the answer all along.<br>
+Code standards! Whether over-complicated or over-over-complicated, keeping code consistent and readable is a keen interest of mine.
+
+### 📩 How to reach me:
+Find me at [bdlm@hotmail.co.uk](mailto:bdlm@hotmail.co.uk?subject=[GitHub])
+
+### 🔨 Languages:
 - Python
-- JS
 - C#
+- JS
 
-#### Here's a <sub>relatively</sub> nicely curated list of my 'techy' interests:
-- Full-stack Development
-- Data Science
-- UX Design
-- Cybersecurity
-- Game Development/Design
-- Gaming
-- Neural Networks
+### 📈 GitHub Stats:
+Behold, my GitHub stats.<br>
+[![My stats](https://github-readme-stats-bdlm-dev.vercel.app/api?username=bdlm-dev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-#### And some less tech-oriented interests:
-- Reading
-- Rock Climbing
-- Music Composition
-- Writing
-- Graphic Design
+### Recent Projects:
+Here are some of my recent projects, testament to my syntax sorcery.
+- 🎣 [Winch: DREDGE Modding Framework](https://github.com/Hacktix/Winch)
 
-
-
-<!--
-**bdlm-dev/bdlm-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for stopping by, and remember,<br>
+_From one bug conjurer to another_:<br>
+**Programming is simply a series of opportunities to make mistakes**.
