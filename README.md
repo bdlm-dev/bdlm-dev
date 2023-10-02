@@ -1,7 +1,7 @@
 ## 👋 Hey! 👋
 I'm April, a code wrangler from London
 
-### Check out [My Website!](https://itisapril.dev)
+### [Check out My Website!](https://itisapril.dev)
 
 ### 💬 Ask me about:
 Anything programming! I'm an expert in googling solutions and pretending I knew the answer all along.<br>
