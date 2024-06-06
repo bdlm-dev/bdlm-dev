@@ -1,14 +1,17 @@
-##  Hey, I'm April
+##  Hey 👋
 
-### [My website](https://itisapril.dev)
+I'm april, a software developer, I make stuff :)
 
-### 💬 Ask me about:
-Anything programming! I'm an expert in googling solutions and pretending I knew the answer all along.<br>
-Code standards! Whether over-complicated or over-over-complicated, keeping code consistent and readable is a keen interest of mine.
+- [check out my website](https://itisapril.dev)
+
+Feel free to reach out, I'll happily talk about anything tech, including but not limited to:
+- game dev
+- web dev
+- fancy new tech
+- code standards
+- the next weekly JS framework
+- esolangs
 
 [![My stats](https://github-readme-stats-git-main-bdlm-dev.vercel.app/api?username=bdlm-dev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Recent Projects:
-- 🎣 [Winch: DREDGE Modding Framework](https://github.com/Hacktix/Winch)
-
-Thanks for stopping by :)
+computing is cool :D
