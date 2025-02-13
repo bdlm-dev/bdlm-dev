@@ -9,7 +9,7 @@ Feel free to reach out, I'll happily talk about anything tech, including but not
 - web dev
 - fancy new tech
 - code standards
-- the next weekly JS framework
+- distributed simulation
 - esolangs
 
 computing is cool :D
